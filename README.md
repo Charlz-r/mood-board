@@ -11,7 +11,7 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 
 **Images:**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/200px-Mandel_zoom_00_mandelbrot_set.jpg" width="400">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fonetwothree.net%2Fportfolio%2F2010%2Ffractal-tree&psig=AOvVaw0tw71hGBBAUZZeMQMmW6bf&ust=1741363593669000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNj5qonr9YsDFQAAAAAdAAAAABAJ" width="400">
+<img src="https://onetwothree.net/sites/default/files/portfolio/plotter-drawings/image/tree_1.png" width="400">
 
 
 
