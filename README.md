@@ -55,12 +55,11 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 
 ## **5. Dome Projection & Map Distortions**
 - **Core Idea:** Understanding how 3D spherical data translates into 2D representations.  
-- **Example:** Equirectangular vs. Mercator projections, distortion issues, fisheye warping.  
-- **Relevance to Final Project:** Ensuring accurate rendering if expanded into dome projection environments.  
+- **Example:** Equirectangular (equidistant cylindrical), Mercator projections (cylindrical map projection), distortion issues, fisheye warping.  
 
-<img src="" width="400">
-<img src="" width="400">
-<img src="" width="400">
+<img src="https://pacificdomes.com/wp-content/uploads/2018/06/madison-square-gardens-las-vegas.jpg" width="400">
+<img src="https://www.themathdoctors.org/wp-content/uploads/2020/02/TMD0941-gores.gif" width="400">
+<img src="https://plus.maths.org/content/sites/plus.maths.org/files/articles/2020/Maps/mercator-projection.jpg" width="400">
 
 ---
 
@@ -73,8 +72,8 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
   - **Pixel Manipulation** → Enhances realism with turbulence effects.  
   - **Projection Mapping** → Expands possibilities for immersive displays.  
 
-<img src="" width="400">
-<img src="" width="400">
-<img src="" width="400">
+<img src="https://www.karlsims.com/flow-example.jpg" width="400">
+<img src="https://www.blendernation.com/wp-content/uploads/2016/03/fluid-simulation.jpg" width="400">
+<img src="https://preview.redd.it/fluid-simulation-optimization-on-rust-v0-2dvgso7312kc1.png?width=991&format=png&auto=webp&s=c0bd4f4095bf1c3bb78300e71af0b2b8376506a4" width="400">
 
 ---
