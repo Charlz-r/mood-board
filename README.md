@@ -19,7 +19,7 @@
 - **Core Idea:** Exploring the difference between true randomness and algorithmic randomness in visual art.  
 - **Supporting Material:**  
   - [Wave Function Collapse Algorithm](https://www.youtube.com/watch?v=5iSAvzU2WYY) – Procedural pattern generation.  
-  - [Chrome Music Lab – Lines](https://lines.chromeexperiments.com/) – Randomness in interactive music visualization.  
+  - [Chrome Music Lab – Lines](https://lines.chromeexperiments.com/) – Uses maps to trace lines and find patterns.  
 - **Relevance to Final Project:** Introducing controlled randomness for turbulence effects in the fluid simulation.  
 
 <img src="https://robertheaton.com/images/wfc-town.png" width="400">
