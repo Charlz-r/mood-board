@@ -35,9 +35,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Particle systems responding to body movement, pose detection-based distortions.  
 - **Relevance to Final Project:** Implementing real-time interaction where gestures could affect flow direction and intensity.  
 
-<img src="" width="400">
-<img src="" width="400">
-<img src="" width="400">
+<img src="https://iprorwxhloqmli5p.ldycdn.com/cloud/lmBpkKlploSRoklnjkkqjq/floor-projection-800-800.jpg" width="400">
+<img src="https://en.nokov.com/upload/20220330140600_418.jpg" width="400">
+<img src="https://i.ytimg.com/vi/oPZMb7hLJGY/hq720.jpg?sqp=-oaymwFBCNAFEJQDSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDs3EhTfBqzqGBuZ5W_B23zBReJKw" width="400">
 
 ---
 
