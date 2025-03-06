@@ -1,6 +1,4 @@
-# **Algorithmic Thinking & Interactive Art Mood Board**  
-
-A curated collection of inspirations and concepts related to algorithmic art, randomness, interactivity, and visual computation. Each topic ties into a final project—a physics-based fluid simulation where particle velocities influence color and movement.  
+# **Mood Board**  
 
 ---
 
