@@ -9,9 +9,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Audio-reactive visuals, fractal-based compositions, and recursive patterns.  
 - **Relevance to Final Project:** Governing particle behavior through algorithmic rules to create fluid dynamics.  
 
-**Images:**  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/200px-Mandel_zoom_00_mandelbrot_set.jpg" width="400">
 <img src="https://onetwothree.net/sites/default/files/portfolio/plotter-drawings/image/tree_1.png" width="400">
+<img src="https://mathsmodels.co.uk/images/Menger_Sponge/menger_0123_diagram.jpeg" width="400">
 
 
 
@@ -24,11 +24,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
   - [Chrome Music Lab – Lines](https://lines.chromeexperiments.com/) – Randomness in interactive music visualization.  
 - **Relevance to Final Project:** Introducing controlled randomness for turbulence effects in the fluid simulation.  
 
-**Images:**  
-1. [Insert Image](#)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="" width="400">
+<img src="" width="400">
+<img src="" width="400">
 
 ---
 
@@ -37,11 +35,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Particle systems responding to body movement, pose detection-based distortions.  
 - **Relevance to Final Project:** Implementing real-time interaction where gestures could affect flow direction and intensity.  
 
-**Images:**  
-1. [Insert Image](#)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="" width="400">
+<img src="" width="400">
+<img src="" width="400">
 
 ---
 
@@ -50,11 +46,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Perlin noise for organic textures, pixel sorting for glitch effects, displacement maps for warping.  
 - **Relevance to Final Project:** Using noise fields to create realistic turbulence and velocity-driven color shifts.  
 
-**Images:**  
-1. [Insert Image](#)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="" width="400">
+<img src="" width="400">
+<img src="" width="400">
 
 ---
 
@@ -63,11 +57,9 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Equirectangular vs. Mercator projections, distortion issues, fisheye warping.  
 - **Relevance to Final Project:** Ensuring accurate rendering if expanded into dome projection environments.  
 
-**Images:**  
-1. [Insert Image](#)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="" width="400">
+<img src="" width="400">
+<img src="" width="400">
 
 ---
 
@@ -80,10 +72,8 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
   - **Pixel Manipulation** → Enhances realism with turbulence effects.  
   - **Projection Mapping** → Expands possibilities for immersive displays.  
 
-**Images:**  
-1. [Insert Image](#)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="" width="400">
+<img src="" width="400">
+<img src="" width="400">
 
 ---
