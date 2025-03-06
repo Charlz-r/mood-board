@@ -10,10 +10,10 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Relevance to Final Project:** Governing particle behavior through algorithmic rules to create fluid dynamics.  
 
 **Images:**  
-1. [Fractal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/200px-Mandel_zoom_00_mandelbrot_set.jpg)  
-2. [Insert Image](#)  
-3. [Insert Image](#)  
-4. [Insert Image](#)  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/200px-Mandel_zoom_00_mandelbrot_set.jpg" width="400">
+1. [Fractal](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/200px-Mandel_zoom_00_mandelbrot_set.jpg)
+2. [Insert Image](#)
+3.  [Insert Image](#)
 
 ---
 
