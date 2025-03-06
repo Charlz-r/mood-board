@@ -61,8 +61,8 @@
 
 ---
 
-## **Tying It All Together (final project): Physics-Based Visuals**
-- **Final Project:** A fluid simulation where each particle’s velocity determines its color, creating an evolving visual landscape.  
+## **Final Project (Physics-Based Visuals)**
+- A fluid simulation where each particle’s velocity determines its color, creating an evolving visual landscape.  
 - **Key Influences:**  
   - **Algorithmic Thinking** → Governs particle interactions.  
   - **Randomness & Simulation** → Adds organic variation.  
