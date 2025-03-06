@@ -46,9 +46,10 @@ A curated collection of inspirations and concepts related to algorithmic art, ra
 - **Example:** Perlin noise for organic textures, pixel sorting for glitch effects, displacement maps for warping.  
 - **Relevance to Final Project:** Using noise fields to create realistic turbulence and velocity-driven color shifts.  
 
-<img src="" width="400">
-<img src="" width="400">
-<img src="" width="400">
+<img src="https://sighack.com/public/images/2018-01-03-getting-creative-with-perlin-noise-fields/example-1.png" width="400">
+<img src="https://sighack.com/public/images/2018-01-03-getting-creative-with-perlin-noise-fields/random_force_field.png" width="400">
+<img src="https://raw.githubusercontent.com/ajratnam/image-to-ascii/main/images/angry_bird_ascii_sharpened.jpg" width="400">
+<img src="https://s3.motionvfx.com/mvfxpublic/products/templates/1381/media/mTransitionDatamosh_top-d_2560.jpg?2" width="400">
 
 ---
 
